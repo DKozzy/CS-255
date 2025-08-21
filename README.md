@@ -27,14 +27,17 @@ Together, these artifacts demonstrate the ability to translate client needs into
 ## Reflection
 
 1. How can I ensure that my code, program, or software is functional and secure?
+
 I focus on documenting clear requirements, using UML to model workflows, and considering security from the beginning. For example, DriverPass required secure logins, encrypted data, and role-based access control, all of which were built into the requirements to make the system both functional and trustworthy.
 
 2. How do I interpret user needs and incorporate them into a program?
+
 I interpret user needs by analyzing interview transcripts, identifying pain points, and translating them into functional requirements. In DriverPass, this meant designing scheduling tools for students, lesson tracking for instructors, and reporting functions for administrators. Aligning features with user roles ensures the system provides value to all stakeholders.
 
 3. How do I approach designing software?
+
 I approach design iteratively, beginning with requirements, then developing models to visualize the system before implementation. By creating UML use case, activity, sequence, and class diagrams, I ensured the DriverPass design addressed technical needs while also being adaptable and scalable. This structured process reduces errors and produces a system better aligned with client goals.
 
-Future Applications
+## Future Applications
 
 The skills gained in CS-255—requirements analysis, UML modeling, and clear documentation—are directly transferable to real-world development projects. Whether I’m gathering requirements for a new application, creating models for system architecture, or presenting design concepts to stakeholders, these practices will help ensure my solutions are functional, secure, and user-focused.
